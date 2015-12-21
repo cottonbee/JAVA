@@ -18,7 +18,8 @@ public class HW_6A {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-    
+       Question Q = new Question(null);
+       Q.print();
 	}
 
 }
